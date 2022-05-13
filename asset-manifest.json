@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Cryptozombies/static/css/main.714fab77.chunk.css",
+    "main.js": "/Cryptozombies/static/js/main.ad14726d.chunk.js",
+    "main.js.map": "/Cryptozombies/static/js/main.ad14726d.chunk.js.map",
+    "runtime-main.js": "/Cryptozombies/static/js/runtime-main.049da485.js",
+    "runtime-main.js.map": "/Cryptozombies/static/js/runtime-main.049da485.js.map",
+    "static/js/2.fffcb7ef.chunk.js": "/Cryptozombies/static/js/2.fffcb7ef.chunk.js",
+    "static/js/2.fffcb7ef.chunk.js.map": "/Cryptozombies/static/js/2.fffcb7ef.chunk.js.map",
+    "index.html": "/Cryptozombies/index.html",
+    "precache-manifest.edfa9dd2e374d7f77797daccc115d656.js": "/Cryptozombies/precache-manifest.edfa9dd2e374d7f77797daccc115d656.js",
+    "service-worker.js": "/Cryptozombies/service-worker.js",
+    "static/css/main.714fab77.chunk.css.map": "/Cryptozombies/static/css/main.714fab77.chunk.css.map",
+    "static/js/2.fffcb7ef.chunk.js.LICENSE": "/Cryptozombies/static/js/2.fffcb7ef.chunk.js.LICENSE",
+    "static/media/App.css": "/Cryptozombies/static/media/walls.b102b800.jpg",
+    "static/media/ZombiePreview.css": "/Cryptozombies/static/media/zombierun.08087132.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.049da485.js",
+    "static/js/2.fffcb7ef.chunk.js",
+    "static/css/main.714fab77.chunk.css",
+    "static/js/main.ad14726d.chunk.js"
+  ]
+}
